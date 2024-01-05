@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "wholePrice": 19.99,
+        "slicePrice": 4.99,
+        "sliceCalories": 57
+    },
+    {
+        "id": 2,
+        "name": "Blueberry",
+        "wholePrice": 24.99,
+        "slicePrice": 5.99,
+        "sliceCalories": 83
+    },
+    {
+        "id": 3,
+        "name": "Cherry",
+        "wholePrice": 29.99,
+        "slicePrice": 6.99,
+        "sliceCalories": 100
+    },
+    {
+        "id": 4,
+        "name": "Peach",
+        "wholePrice": 34.99,
+        "slicePrice": 7.99,
+        "sliceCalories": 117
+    },
+    {
+        "id": 5,
+        "name": "Pumpkin",
+        "wholePrice": 39.99,
+        "slicePrice": 8.99,
+        "sliceCalories": 133
+    },
+    {
+        "id": 6,
+        "name": "Pecan",
+        "wholePrice": 29.99,
+        "slicePrice": 7.99,
+        "sliceCalories": 213
+    },
+    {
+        "id": 7,
+        "name": "New Pie",
+        "wholePrice": 10,
+        "slicePrice": 2,
+        "sliceCalories": 100
+    }
+]

@@ -208,6 +208,6 @@ app.use(errorHelpers.clientErrorHandler);
 // Configure catch-all exception middleware last
 app.use(errorHelpers.errorHandler);
 
-const server = app.listen(5000, function () {
-    console.log("Node server is running on http://localhost:5000");
+const server = app.listen(3200, function () {
+    console.log("Node server is running on http://localhost:3200");
 });

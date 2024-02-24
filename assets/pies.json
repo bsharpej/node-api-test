@@ -33,12 +33,5 @@
     "wholePrice": 39.99,
     "slicePrice": 8.99,
     "sliceCalories": 133
-  },
-  {
-    "id": 6,
-    "name": "Pecan",
-    "wholePrice": 29.99,
-    "slicePrice": 7.99,
-    "sliceCalories": 213
   }
 ]

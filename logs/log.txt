@@ -1,5 +1,5 @@
 ********************************************************************************
-Data: 2/8/2024
-Time: 10:35:26 PM
-Exception Info: {"status":500,"statusText":"Internal Server Error","message":"There was a error fetching pie data: PIE_ATA is not defined","requestInfo":{"hostname":"localhost","path":"/api/"}}
+Data: 25/04/2024
+Time: 21:13:49
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"There was a error fetching pie data: next is not a function","requestInfo":{"hostname":"localhost","path":"/favicon.ico"}}
 ********************************************************************************

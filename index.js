@@ -43,7 +43,7 @@ router.get("/search", function (req, res, next) {
             res.status(200).json({
                 status: 200,
                 statusText: "OK",
-                message: "All pies retrieved.",
+                message: "Pie search successful.",
                 data: data,
             });
         },

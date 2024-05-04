@@ -1,1 +1,50 @@
-[{"id":1,"name":"Apple","wholePrice":"36","slicePrice":4.99,"sliceCalories":"100"},{"id":2,"name":"Cherry","wholePrice":29.99,"slicePrice":6.99,"sliceCalories":100},{"id":3,"name":"Pumpkin","wholePrice":39.99,"slicePrice":"8.99","sliceCalories":133},{"id":4,"name":"Bakewell","wholePrice":32,"slicePrice":6,"sliceCalories":250},{"id":5,"name":"Blueberry","wholePrice":"34","slicePrice":"4","sliceCalories":"250"},{"id":6,"name":"Peach","wholePrice":"19.99","slicePrice":"4.99","sliceCalories":"90"},{"id":852,"name":"New ","wholePrice":"9","slicePrice":"9","sliceCalories":"9"}]
+[
+  {
+    "id": "48c11648-1114-43f8-862f-553f861c7e4a",
+    "name": "Apple",
+    "wholePrice": "36",
+    "slicePrice": "6",
+    "sliceCalories": "200",
+    "dateTimeCreated": "2024-05-04T20:59:30.045Z"
+  },
+  {
+    "id": "0e86049b-5adf-4b2f-99c5-2a10f183d3c4",
+    "name": "Peach",
+    "wholePrice": "40",
+    "slicePrice": "5",
+    "sliceCalories": "250",
+    "dateTimeCreated": "2024-05-04T21:00:01.239Z"
+  },
+  {
+    "id": "bdc66891-ca54-4879-a65b-8ada7c7f96c3",
+    "name": "Blueberry",
+    "wholePrice": "50",
+    "slicePrice": "5",
+    "sliceCalories": "250",
+    "dateTimeCreated": "2024-05-04T21:14:20.934Z"
+  },
+  {
+    "id": "e4e79482-b400-47f8-a043-ff84f9ffb767",
+    "name": "Pumpkin",
+    "wholePrice": "30",
+    "slicePrice": "4",
+    "sliceCalories": "200",
+    "dateTimeCreated": "2024-05-04T21:15:02.221Z"
+  },
+  {
+    "id": "b8293b3b-cb43-42eb-8869-2513e012206a",
+    "name": "Cherry",
+    "wholePrice": "38",
+    "slicePrice": "4",
+    "sliceCalories": "180",
+    "dateTimeCreated": "2024-05-04T21:15:34.050Z"
+  },
+  {
+    "id": "18d72875-c1a1-4662-8aea-4269a8333d85",
+    "name": "Bakewell",
+    "wholePrice": "45",
+    "slicePrice": "5",
+    "sliceCalories": "280",
+    "dateTimeCreated": "2024-05-04T21:15:49.990Z"
+  }
+]
